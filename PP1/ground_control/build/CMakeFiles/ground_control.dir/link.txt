@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/ground_control.dir/src/main.c.o -o ground_control  -lm 

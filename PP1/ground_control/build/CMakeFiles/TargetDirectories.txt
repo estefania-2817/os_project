@@ -1,0 +1,3 @@
+/home/estefania2817/winhome/Downloads/os_project/pp1/ground_control/build/CMakeFiles/ground_control.dir
+/home/estefania2817/winhome/Downloads/os_project/pp1/ground_control/build/CMakeFiles/edit_cache.dir
+/home/estefania2817/winhome/Downloads/os_project/pp1/ground_control/build/CMakeFiles/rebuild_cache.dir

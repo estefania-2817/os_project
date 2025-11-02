@@ -1,0 +1,1 @@
+/usr/bin/cc CMakeFiles/air_control_c.dir/src/main.c.o CMakeFiles/air_control_c.dir/src/functions.c.o -o air_control_c  -lm 
